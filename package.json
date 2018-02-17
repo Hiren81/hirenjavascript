@@ -1,7 +1,7 @@
 {
   "name": "hirenautomation",
   "version": "1.0.0",
-  "description": "Een project om te oefenen met testautomatisering in cucumber",
+  "description": "java script cucumber sample project",
   "scripts": {
     "start": "./node_modules/.bin/nightwatch",
     "report": "node html_report.js",
